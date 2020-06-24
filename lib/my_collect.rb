@@ -1,4 +1,4 @@
-def my_collection(collection)
+def my_collect(collection)
   x = 0
   collect = []
   while x < collection.length
