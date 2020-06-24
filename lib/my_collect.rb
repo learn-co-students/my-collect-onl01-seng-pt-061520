@@ -1,2 +1,2 @@
-def my_collection()
-
+def my_collection(collection)
+x = 0
